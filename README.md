@@ -1,1 +1,2 @@
 # Manjaro_on_Flex5
+Manjaro在Chromebook Flex以及其他Comet Lake平台已经得到完美支持，理论上2019/2020年之后发售的x86平台Chromebook也同样支持。
